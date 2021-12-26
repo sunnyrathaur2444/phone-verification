@@ -1,7 +1,6 @@
 body{
 	margin: 0;
 	padding: 0;
-	/* height: 100vh; */
 	background: #178edd;
 
 }
@@ -13,7 +12,6 @@ body{
 	margin: auto;
 	padding: 45px;
 	flex-flow: column;
-	/* height: 100%; */
 	align-items: space-around;
 	justify-content: center;
 	background: #ffffff;
@@ -50,7 +48,6 @@ h3{
 	text-decoration: none;
 }
 
-
 button{
 	width: 260px;
 	height: 40px;
@@ -62,5 +59,6 @@ button{
 	border-radius: 14px;
 	letter-spacing: 2px;
 	cursor: pointer;
+	
 	background: #1eb11e;
 }

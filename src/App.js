@@ -27,11 +27,8 @@ function App() {
         />
         <a href="/" className="number">Change Number</a>
         <a href="/" className="resend">Re-send OTP</a>
-        {/* <!-- <button>Change Number</button>
-      <button>Re-send OTP</button> --> */}
-        
-
         <button>Verify Phone Number</button>
+
       </div>
     </>
   );
